@@ -5,9 +5,9 @@ Purpose: a template to log indicators of compromise (IOCs) from one phishing rep
 Do not click links or open attachments. Copy values from the headers or a report only.
 Write domains in a safe form so they do not become live links: `example[.]com`.
 
-- Ticket number: [ticket]
-- Date reported: [date]
-- Reported by: [role only, for example "staff user". No names.]
+- Ticket number: 1
+- Date reported: 11/4/2026
+- Reported by: staff
 
 | Type          | Value                             | Where found        |
 |---------------|-----------------------------------|--------------------|
